@@ -1,7 +1,7 @@
 {
-"bot_token": "Bot Token",
+"bot_token": "MTAzODg5NTcwNDk1MDcxNDM3OQ.GQ6zl2.Kbbowm8X-RoddpAmho4ElhSbPBdD0iHMwtOJa0",
 "prefix": "$",
-"channelnames": "Axe Runs Cord",
-"rolenames": "AXES RUNS CORD",
-"spam_text": ["@everyone Axes Runs Cord", "@everyone Boom! Get Nuked", "@everyone Axes Are Cool", "@everyone Beamed"]
+"channelnames": "testing1",
+"rolenames": "testing2",
+"spam_text": ["@everyone among us", "@everyone test", "@everyone smash flash needs a rework", "@everyone chicken sandwitch"]
 }
